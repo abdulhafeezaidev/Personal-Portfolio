@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.1e9ebaca.css",
+    "main.js": "/Personal-Portfolio/static/js/main.54a2cf69.js",
+    "static/js/453.298f5782.chunk.js": "/Personal-Portfolio/static/js/453.298f5782.chunk.js",
+    "static/media/Plagarismchecker.png": "/Personal-Portfolio/static/media/Plagarismchecker.02eb7fdb6666ed677509.png",
+    "static/media/muzammalmart.png": "/Personal-Portfolio/static/media/muzammalmart.8d0b52669260471257f1.png",
+    "static/media/bg-light.png": "/Personal-Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Personal-Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/HumanFirst.png": "/Personal-Portfolio/static/media/HumanFirst.64b61107346fb3078f16.png",
+    "static/media/edgeextension.png": "/Personal-Portfolio/static/media/edgeextension.f1f9bbb154b0a00541f7.png",
+    "static/media/mypic.jpg": "/Personal-Portfolio/static/media/mypic.aa5c51657502eb9ba67e.jpg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.1e9ebaca.css.map": "/Personal-Portfolio/static/css/main.1e9ebaca.css.map",
+    "main.54a2cf69.js.map": "/Personal-Portfolio/static/js/main.54a2cf69.js.map",
+    "453.298f5782.chunk.js.map": "/Personal-Portfolio/static/js/453.298f5782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9ebaca.css",
+    "static/js/main.54a2cf69.js"
+  ]
+}
